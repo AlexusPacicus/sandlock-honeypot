@@ -1,6 +1,6 @@
-# SANDLOCK // Controlled Simulation Honeypot
+# TRIARII // Controlled Simulation Honeypot
 
-This repository serves as an external data simulation node for the **SANDLOCK** security platform, built during the **Web Data UNLOCKED Hackathon (lablab.ai)**.
+This repository serves as an external data simulation node for the **TRIARII** security platform, built during the **Web Data UNLOCKED Hackathon (lablab.ai)**.
 
 ## Purpose
 It contains a passive, hidden semantic exploit structure designed to test **Indirect Prompt Injections (IDPI)** and **Capability Laundering (CVE-2026-27735)** against autonomous AI agents. 
